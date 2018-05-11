@@ -31,7 +31,8 @@
  * sections have changed.  Once a list of changed sections has been generated,
  * various rules are applied to determine any object local sections that
  * are dependencies of the changed section and also need to be included in
- * the output object.
+ * the output object. 
+ * Added by zoucongjie.
  */
 
 #include <sys/types.h>
