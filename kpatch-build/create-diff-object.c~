@@ -32,7 +32,7 @@
  * various rules are applied to determine any object local sections that
  * are dependencies of the changed section and also need to be included in
  * the output object. 
- * Added by zoucongjie for github.
+ * Added by zoucongjie.
  */
 
 #include <sys/types.h>
